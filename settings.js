@@ -49,13 +49,13 @@ global.location = process.env.LOCATION || "Pakistan, Lahore, Sabzazar";
 
 
 //~~~~~~~~<Session and Bot Details>~~~~~~~~~~~~~\\
-global.SESSION_ID = process.env.SESSION_ID || '';
+global.SESSION_ID = process.env.SESSION_ID || 'XLICON-V4~3qoi0AjC#cZFEq9m4X86K8tjORXSAXI4y8mXG2N_ER4z_vt2mDy0';
 
 global.botname = process.env.BOT_NAME || 'XLICON-V4-MD';
 
-global.ownernumber = [process.env.OWNER_NUMBER || '923184070915'];
+global.ownernumber = [process.env.OWNER_NUMBER || '94789215779'];
 
-global.ownername = process.env.OWNER_NAME || '𝙎𝙖𝙡𝙢𝙖𝙣 𝘼𝙝𝙢𝙖𝙙';
+global.ownername = process.env.OWNER_NAME || '© Nivanka Dilshan';
 
 
 //~~~~~~<Website and Social Links>~~~~~~~~~~\\
@@ -73,7 +73,7 @@ global.botscript = process.env.SCRIPT_LINK || 'https://github.com/salmanytoffici
 
 global.packname = process.env.PACK_NAME || "𝘼𝙃𝙃𝙈𝙄 𝙆𝙐𝙉";
 
-global.author = process.env.AUTHOR_NAME || "MΛDΣ BY 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿";
+global.author = process.env.AUTHOR_NAME || "MΛDΣ BY Nivanka Dilshan";
 
 global.creator = process.env.CREATOR_NUMBER || "923184070915@s.whatsapp.net";
 
@@ -81,7 +81,7 @@ global.creator = process.env.CREATOR_NUMBER || "923184070915@s.whatsapp.net";
 //~~~~~~~~~~~~~<Bot Settings>~~~~~~~~~~~~~~~\\
 global.xprefix = process.env.PREFIX || '.';
 
-global.premium = [process.env.PREMIUM_NUMBER || '923184070915'];
+global.premium = [process.env.PREMIUM_NUMBER || '94789215779'];
 
 global.typemenu = process.env.MENU_TYPE || 'v2';
 
